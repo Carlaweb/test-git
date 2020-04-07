@@ -43,6 +43,6 @@ jobs:
         # Force SSL encryption
         forceSsl: # optional, default is false
         # Local directory
-        localDir: /
+        localDir: aledale4/test-git
         # Remote directory
         remoteDir: /test-git
